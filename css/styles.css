@@ -1,0 +1,48 @@
+/* ====== GLOBAL STYLES ====== */
+
+@import url(https://fonts.googleapis.com/css?family=Poiret+One|Sigmar+One|Miniver);
+/*font-family: 'Poiret One', cursive;*/
+/*font-family: 'Sigmar One', cursive;*/
+/*font-family: 'Miniver', cursive;*/
+
+html, body {
+    width:100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color:#F1F1F1;
+    font-family:'Source Sans Pro', Trebuchet MS, sans-serif;
+    font-size:16px;
+}
+
+h1, h2, h3 {
+    margin:0px;
+    padding:0px;
+    color:#CC0099; /*HOT PINK COLOR*/
+}
+
+p {
+    margin:15px 0px;
+}
+
+b, strong {
+    color:#CC0099;
+}
+
+a {
+    color:#CC0099;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#9966FF; /*LAVENDER*/
+}
+
+.mainWidth {
+     width:1200px;   
+}
+
+/* ====== HEADER STYLES ====== */
